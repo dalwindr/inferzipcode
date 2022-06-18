@@ -74,7 +74,57 @@ Usage
 
 .. code:: bash
 
-    >>> from pyzipcode import Pyzipcode as pz
+    >>> from pyinferzipcode import Pyzipcode as pz
+        >>> pz.get(603203, "IN", return_json=True)
+        {
+          "location": {
+            "lat": 12.8336666,
+            "lng": 80.0199562
+          },
+          "city": "Kavanur",
+          "state_short": "25",
+          "county": "Kanchipuram",
+          "state": "Tamil Nadu",
+          "postal_code": "603203",
+          "bounds": {
+            "northeast": {
+              "lat": 12.8769479,
+              "lng": 80.0572497
+            },
+            "southwest": {
+              "lat": 12.7997355,
+              "lng": 79.9504465
+            }
+          },
+          "location_type": "APPROXIMATE",
+          "country": "IN"
+        }
+
+        >>>
+        >>> pz.get(94305, "US", return_json=True)
+        {
+          "city": "Stanford",
+          "country": "US",
+          "bounds": {
+            "northeast": {
+              "lat": 37.44363,
+              "lng": -122.1494501
+            },
+            "southwest": {
+              "lat": 37.382743,
+              "lng": -122.194849
+            }
+          },
+          "county": "Santa Clara",
+          "state": "California",
+          "state_short": "CA",
+          "postal_code": "94305",
+          "location": {
+            "lat": 37.4135757,
+            "lng": -122.1689284
+          },
+          "location_type": "APPROXIMATE"
+        }
     >>> pz.get(603203, "IN", return_json=True)
     {
       "location": {
