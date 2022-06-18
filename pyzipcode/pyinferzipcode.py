@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# git filter-branch --tree-filter 'rm -rf pyzipcode/allCountries.txt' HEAD
+# git filter-branch -f  --index-filter 'git rm --cached --ignore-unmatch pyzipcode/allCountries.txt'
+# git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch fixtures/11_user_answer.json'
 import pandas as pd
 import os
 import requests
