@@ -12,7 +12,6 @@ class TestModule(unittest.TestCase):
         print("test", os.getcwd())
         current_result = pz.get([33044])
 
-
         print(current_result)
        #self.assertFalse(current_result)
 
