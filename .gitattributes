@@ -1,2 +1,4 @@
+pyzipcode/GB_full.txt filter=lfs diff=lfs merge=lfs -text
+pyzipcode/allCountries.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
