@@ -7,7 +7,7 @@ except ImportError:
   from distutils.core import setup
 
 setup(
-  name = 'inferzipcode',
+  name = 'pyworldpostal',
   version = '0.1.4',
   author = 'Dalwinder singh',
   author_email = 'prodicus@gmail.com',
