@@ -7,11 +7,11 @@ except ImportError:
   from distutils.core import setup
 
 setup(
-  name = 'pyzipcode-cli',
+  name = 'inferzipcode',
   version = '0.1.4',
   author = 'Dalwinder singh',
   author_email = 'prodicus@gmail.com',
-  description = "a thin wrapper around getziptastic's API v2",
+  description = "infer geo location name using postal code",
   url = 'https://github.com/dalwindr/inferzipcode.git',
   license = 'MIT',
   install_requires = [
@@ -38,7 +38,7 @@ setup(
   keywords = ['api', 'geo-location', 'zipcode','devtools', 'Development', 'ziptastic', 'latitude', 'longitude'], 
   entry_points = {
         'console_scripts': [
-            'pyworldpostal11 = pyworldpostal11.core:main'
+            'pyworldpostal = pyworldpostal.core:main'
       ],
     }
 )
