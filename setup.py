@@ -38,7 +38,7 @@ setup(
   keywords = ['api', 'geo-location', 'zipcode','devtools', 'Development', 'ziptastic', 'latitude', 'longitude'], 
   entry_points = {
         'console_scripts': [
-            'pyworldpostal = pyworldpostal.core:main'
+            'pyworldpostal11 = pyworldpostal11.core:main'
       ],
     }
 )
