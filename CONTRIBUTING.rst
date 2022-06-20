@@ -23,7 +23,7 @@ Or, if ``virtualenv`` is not installed on your system:
     $ python virtualenv.py develop    # Create virtual environment
     $ source develop/bin/activate     # Change default python to virtual one
     (develop)$ git clone https://github.com/tasdikrahman/pyzipcode-cli.git
-    (develop)$ cd pyzipcode-cli
+    (develop)$ cd inferzipcode
     (develop)$ pip install -r requirements.txt  # Install requirements for 'pyzipcode-cli' in virtual environment
 
 3. Create your feature branch (``$ git checkout -b my-new-awesome-feature``)
@@ -47,7 +47,7 @@ Hack away!
 Tests
 ~~~~~
 
-``pyzipcode-cli`` uses ``unittesting`` for testing purposes.
+``inferzipcode`` uses ``unittesting`` for testing purposes.
 
 Running the test cases
 
