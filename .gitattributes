@@ -1,7 +1,0 @@
-pyzipcode/GB_full.txt filter=lfs diff=lfs merge=lfs -text
-pyzipcode/allCountries.txt filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-*.py filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
