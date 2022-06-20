@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="750da537-6644-4dd3-9fa3-e7f58ada1fdb" name="Default Changelist" comment="my first commit">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/pyworldpostal/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pyworldpostal/country_files/AD.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pyworldpostal/country_files/AR.py" afterDir="false" />
@@ -107,6 +108,10 @@
       <change beforePath="$PROJECT_DIR$/pyzipcode/world_postal_data.zcsv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyzipcode/pyinferzipcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyzipcode/pyinferzipcode.py" afterDir="false" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +119,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FavoritesManager">
     <favorites_list name="inferzipcode" />
   </component>
@@ -124,11 +130,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1394">
               <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CHANGELOG.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MANIFEST.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="7" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -149,20 +170,75 @@
               <caret line="14" column="31" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="e#91#137#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/README.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.cfg">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyzipcode/pyinferzipcode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding>
+                <element signature="e#47#66#0" expanded="true" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/pyworldpostal/country_files/AR.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="48" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="48" />
+=======
+        <entry file="file://$PROJECT_DIR$/tests/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#47#84#0" expanded="true" />
+              </folding>
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -172,6 +248,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>'</find>
@@ -185,6 +262,8 @@
       <replace>&quot;postal_code&quot;, &quot;country_code&quot;,</replace>
     </replaceStrings>
   </component>
+=======
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -199,6 +278,7 @@
         <option value="$PROJECT_DIR$/CHANGELOG.rst" />
         <option value="$PROJECT_DIR$/CONTRIBUTING.rst" />
         <option value="$PROJECT_DIR$/setup.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/pyzipcode/pyinferzipcode.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/pyworldpostal/country_files/RE.py" />
@@ -208,14 +288,25 @@
         <option value="$PROJECT_DIR$/pyworldpostal/country_files/AS.py" />
         <option value="$PROJECT_DIR$/pyworldpostal/pyinferzipcode.py" />
         <option value="$PROJECT_DIR$/tests/test.py" />
+=======
+        <option value="$PROJECT_DIR$/tests/test.py" />
+        <option value="$PROJECT_DIR$/pyzipcode/pyinferzipcode.py" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="255" />
     <option name="y" value="137" />
     <option name="width" value="1538" />
     <option name="height" value="828" />
+=======
+    <option name="x" value="-15" />
+    <option name="y" value="60" />
+    <option name="width" value="1945" />
+    <option name="height" value="1035" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -235,6 +326,7 @@
             <path>
               <item name="inferzipcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="inferzipcode" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="pyworldpostal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -242,6 +334,9 @@
               <item name="inferzipcode" type="462c0819:PsiDirectoryNode" />
               <item name="pyworldpostal" type="462c0819:PsiDirectoryNode" />
               <item name="country_files" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="pyzipcode" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
             </path>
             <path>
               <item name="inferzipcode" type="b2602c69:ProjectViewProjectNode" />
@@ -261,6 +356,7 @@
               <item name="test.py" type="8704e2dd:PyFileNode" />
               <item name="TestModule" type="dd8bbb05:PyElementNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="inferzipcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -283,6 +379,8 @@
               <item name="-729833179" type="70582d5e:PySkeletonsNode" />
               <item name="builtins.py" type="8704e2dd:PyFileNode" />
             </path>
+=======
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
           </expand>
           <select />
         </subPane>
@@ -292,11 +390,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pyworldpostal/country_files" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rajan\Documents\projectpython\inferzipcode\pyworldpostal\country_files" />
@@ -306,6 +409,8 @@
       <recent name="C:\Users\rajan\Documents\projectpython\inferzipcode\pyworldpostal\country_files" />
     </key>
   </component>
+=======
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -318,6 +423,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python tests.Unittests for test.TestModule.test_get_pincode">
     <configuration name="Unittests for test.TestModule.test_bulkget_pincode" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="inferzipcode" />
@@ -373,6 +479,28 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.TestModule.test_valid_countries&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+=======
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
+    <configuration name="pyinferzipcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="inferzipcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyzipcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyzipcode/pyinferzipcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
       <method v="2" />
     </configuration>
     <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -391,11 +519,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python tests.Unittests for test.TestModule.test_get_pincode" />
         <item itemvalue="Python tests.Unittests for test.TestModule.test_bulkget_pincode" />
         <item itemvalue="Python tests.Unittests for test.TestModule.test_get_pincode_list" />
         <item itemvalue="Python tests.Unittests for test.TestModule.test_valid_countries" />
         <item itemvalue="Python tests.Unittests in test.py" />
+=======
+        <item itemvalue="Python tests.Unittests in test.py" />
+        <item itemvalue="Python.pyinferzipcode" />
+        <item itemvalue="Python tests.Unittests in test.py" />
+        <item itemvalue="Python.pyinferzipcode" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +570,7 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="Unittests_for_test_TestModule_test_get_pincode_list - 2022.06.20 at 15h 57m 51s.xml">
       <configuration name="Unittests for test.TestModule.test_get_pincode_list" configurationId="tests" />
     </history-entry>
@@ -464,10 +600,21 @@
     </history-entry>
     <history-entry file="Unittests_for_test_TestModule_test_get_pincode - 2022.06.20 at 16h 08m 51s.xml">
       <configuration name="Unittests for test.TestModule.test_get_pincode" configurationId="tests" />
+=======
+    <history-entry file="Unittests_in_test_py - 2022.06.19 at 01h 34m 58s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2022.06.19 at 01h 36m 29s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2022.06.19 at 01h 39m 31s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1653" height="896" extended-state="6" />
+<<<<<<< HEAD
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.77292573" visible="true" weight="0.19604205" />
@@ -477,12 +624,26 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4366013" />
+=======
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7589577" visible="true" weight="0.24984539" />
+      <window_info id="Structure" order="1" sideWeight="0.24104235" side_tool="true" visible="true" weight="0.24984539" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Repositories" order="3" weight="0.32962275" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56078434" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3385621" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.59869283" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -525,6 +686,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -539,6 +701,8 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first commit" />
@@ -551,9 +715,12 @@
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/CHANGELOG.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+=======
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
     <entry file="file://$PROJECT_DIR$/MANIFEST.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -561,6 +728,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pyzipcode/postal_data.py" />
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -686,6 +854,49 @@
           <caret line="14" column="31" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="e#91#137#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#47#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyzipcode/pyinferzipcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#47#66#0" expanded="true" />
+>>>>>>> 62183f85578fec8806d062df53a3500d4af48aa5
           </folding>
         </state>
       </provider>
