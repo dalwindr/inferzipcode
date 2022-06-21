@@ -20,8 +20,13 @@ class TestModule(unittest.TestCase):
 
     def test_bulkget_pincode(self):
             current_result = pz.WorldPostalSearch().bulkget(
-                [("AD100", "AD"), ("AD1000", "AD"), ("AD100", "AD"), ("AD200", "AD")])
+                [("AD100", "AD"), ("AD1000", "AD"), ("AD100", "AD"), ("AD200", "AD"), ("AD200", "IND")])
             self.assertGreaterEqual(len(current_result), 0, "ok")
+
+    def test_bulkget_notmatch(self):
+            current_result = pz.WorldPostalSearch().bulkget(
+                [("AD100", "IND"), ("AD100", "IND"),("AD100", "IND"), ("AD100", "IND")])
+            print(current_result)
 
     def test_get_invalid_pincode(self):
         current_result = pz.WorldPostalSearch().valid_countries()

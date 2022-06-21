@@ -32,7 +32,10 @@ class WorldPostalSearch(object):
         for i in pin_contry:
             pincode, country_code = i[0], i[1]
             out = self._get(pincode, country_code)
-            res.extend(out)
+            if len(res) == 0:
+                res.extend(out)
+            if bool(out[0]):
+                res.extend(out)
         return res
 
     def return_df(self, pincode, df):
@@ -1179,7 +1182,9 @@ class WorldPostalSearch(object):
                                   "admin_name3", "place_name"]
                     return df.to_dict("records")
             else:
-                [{}]
+                return [{}]
+        else:
+            return [{}]
 
 #print(WorldPostalSearch().bulkget([("AD100", "AD"), ("AD1000", "AD"), ("AD100", "AD"), ("AD200", "AD")]))
 
