@@ -8,7 +8,7 @@ except ImportError:
 
 setup(
   name = 'pyworldpostal',
-  version = '0.1.4',
+  version = '0.1.5',
   author = 'Dalwinder singh',
   author_email = 'prodicus@gmail.com',
   description = "infer geo location name using postal code",
