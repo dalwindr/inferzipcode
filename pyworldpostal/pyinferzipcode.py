@@ -15,7 +15,7 @@ from pyworldpostal.country_files import (AD, AR, AS, AT, AU, AX, AZ, BD, BE, BG,
 __version__ = "0.1.0"
 __author__ = "Dalwinder singh"
 
-val_counties = ["AD", "AR", "AS", "AT", "AU", "AX", "AZ", "BD", "BE", "BG", "BM", "BR", "BY", "CA", "CH", "CL", "CO",
+val_countries = ["AD", "AR", "AS", "AT", "AU", "AX", "AZ", "BD", "BE", "BG", "BM", "BR", "BY", "CA", "CH", "CL", "CO",
                 "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EE", "ES", "FI", "FM", "FO", "FR", "GB", "GF", "GG", "GL",
                 "GP", "GT", "GU", "HR", "HU", "IE", "IM", "IN", "IS", "IT", "JE", "JP", "KR", "LI", "LK", "LT", "LU",
                 "LV", "MC", "MD", "MH", "MK", "MP", "MQ", "MT", "MW", "MX", "MY", "NC", "NL", "NO", "NZ", "PE", "PH",
@@ -25,7 +25,7 @@ val_counties = ["AD", "AR", "AS", "AT", "AU", "AX", "AZ", "BD", "BE", "BG", "BM"
 
 class WorldPostalSearch(object):
     def valid_countries(self):
-        return val_counties
+        return val_countries
 
     def bulkget(self, pin_contry: list):
         res = []
@@ -51,7 +51,7 @@ class WorldPostalSearch(object):
             return df.to_dict("records")
 
     def _get(self, pincode: Union[list, str], country: str):
-        if country in val_counties:
+        if country in val_countries:
             if country == "AD":
                 df = pd.DataFrame(AD.PostalData().data())
                 if isinstance(pincode, list):
